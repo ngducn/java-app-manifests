@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: java-app
-          image: nducanh/java-app:tagname
+          image: nducanh/java-app:3
           resources:
             limits:
               memory: "256Mi"
